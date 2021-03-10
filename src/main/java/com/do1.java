@@ -8,4 +8,8 @@ package com;
  * 描述:
  */
 public class do1 {
+
+    public static void main(String[] args) {
+
+    }
 }
