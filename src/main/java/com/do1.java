@@ -10,6 +10,6 @@ package com;
 public class do1 {
 
     public static void main(String[] args) {
-        //i'm dev...
+        //i'm dev..
     }
 }
